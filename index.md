@@ -1,4 +1,4 @@
-# Server Rules v1
+# Server Rules v1.1
 
 **The YouTubers Discord Server is a welcoming server for everyone. <br> To keep the server safe, please follow these rules :**
 
@@ -17,6 +17,7 @@ If there is not one, you can ask for it to be created by going to suggestions.
 7. Respect the Discord Terms of Service. (https://discord.com/terms)
 8. DO NOT message the owner and/or the mods directly.
 Please go to create-ticket instead.
+9. Do not spam outside of #spam.
 
 ## COUNTING RULES
 
