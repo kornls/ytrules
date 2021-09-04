@@ -1,3 +1,8 @@
+<head>
+  <title>YouTubers Discord Server Rules</title>
+  <meta name="description" content="Created by KornRT2018">
+</head>
+
 # Server Rules v1.1
 
 **The YouTubers Discord Server is a welcoming server for everyone. <br> To keep the server safe, please follow these rules :**
