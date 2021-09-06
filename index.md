@@ -1,4 +1,4 @@
-# Server Rules v1.3
+# Server Rules v1.3.1
 
 Last updated : 6 September 2021
 
@@ -25,12 +25,13 @@ Please go to #create-ticket instead. Violation of this rule will result in a 3-d
 
 1. You need to type in the number that comes after the previous person's number.
 2. You need to wait for another person to count then you can count. You cannot type in two numbers in a row.
-3. Please do not troll in the counting channel. Trolling will lead you to a ban. 
+3. Violation of rules 1 and 2 will lead you to a mute. The duration will be decided by the mods.
+4. Please do not troll in the counting channel. Trolling will lead you to a ban. 
 
 ## SECTION 3 — YOUTUBE SUBSCRIPTION RULES
 1. Don’t forget to subscribe to Nopply TV!!! https://youtube.com/c/NopplyTV?sub_confirmation=1
-2. Subscribe to KornRT2018 too!!!
-https://youtube.com/c/kornrt2018?sub_confirmation=1
+2. Subscribe to KornRT2018 too!!! https://youtube.com/c/kornrt2018?sub_confirmation=1
+3. Not subscribing will not result in any punishment, **BUT JUST DO IT**
 
 
 ## SECTION 4 — ADMIN RULES
