@@ -3,42 +3,45 @@
   <meta name="description" content="Created by KornRT2018">
 </head>
 
-# Server Rules v1.1
+# Server Rules v1.2
+
+Last updated : 6 September 2021
 
 **The YouTubers Discord Server is a welcoming server for everyone. <br> To keep the server safe, please follow these rules :**
 
 ## GENERAL RULES
 
-1. Please respect everyone. Don't be toxic.
-2. NSFW material is strictly prohibited except in #nsfw.
+1. Please respect everyone. Don't be toxic. Doing so will result in a mute and a kick respectively.
+2. NSFW material is strictly prohibited except in #nsfw. Sending NSFW content outside of #nsfw will result in a 1-hour mute.
 3. You are allowed to send advertise links in #advertise.
     3a. DO NOT SEND NSFW LINKS EXCEPT IN #nsfw
-4. Impersonation of Nopply TV or the mods is against the rules.
+4. Impersonation of Nopply TV or the mods is against the rules and if found doing will result in a ban.
 5. Use English while talking in #general.
 If you want to chat in your language, please go to the text channel for your language.
-If there is not one, you can ask for it to be created by going to suggestions.
-6. Please avoid swear words (only use when needed), and don’t use spoiler tags to cause misunderstanding.
-(e.g. Fire)
-7. Respect the Discord Terms of Service. (https://discord.com/terms)
+If there is not one, you can ask for it to be created by going to #suggestions, or react with the question mark in #select-languages.
+6. Don't say swear words, and don’t use spoiler tags to cause misunderstanding. You will be warned and muted if you do it.
+7. Respect the Discord Terms of Service. (https://discord.com/terms) Violation will result in a mute, kick and ban.
 8. DO NOT message the owner and/or the mods directly.
-Please go to create-ticket instead.
-9. Do not spam outside of #spam.
+Please go to #create-ticket instead. Violation of this rule will result in a 3-day mute.
+9. Do not spam outside of #spam. Doing so will lead you to a warn, mute, kick and permanent ban.
+10. Do not say "Chat is dead". It is considered an insult to the server and you will be warned and muted respectively.
 
 ## COUNTING RULES
 
-10. You need to type in the number that comes after the previous person's number.
-11. You need to wait for another person to count then you can count. You cannot type in two numbers in a row.
-12. Please do not troll in the counting channel. Trolling will lead you to a ban.
+11. You need to type in the number that comes after the previous person's number.
+12. You need to wait for another person to count then you can count. You cannot type in two numbers in a row.
+13. Please do not troll in the counting channel. Trolling will lead you to a ban. 
 
 ## YOUTUBE SUBSCRIPTION RULES
-13. Don’t forget to subscribe to Nopply TV!!! https://youtube.com/c/NopplyTV?sub_confirmation=1
-14. Subscribe to KornRT2018 too!!!
+14. Don’t forget to subscribe to Nopply TV!!! https://youtube.com/c/NopplyTV?sub_confirmation=1
+15. Subscribe to KornRT2018 too!!!
 https://youtube.com/c/kornrt2018?sub_confirmation=1
 
 
 ## ADMIN RULES
-15. Do not use @everyone or @here for no reason.
-16. Do not do anything stupid.
+16. Do not use @everyone or @here for no reason.
+17. Do not do anything stupid.
+18. Violation of the admin rules will result in a demotion.
 
 Have fun and enjoy!
 The YouTubers Discord Team
