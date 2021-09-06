@@ -1,4 +1,4 @@
-# Server Rules v1.3.1
+# Server Rules v1.3.2
 
 Last updated : 6 September 2021
 
@@ -8,7 +8,7 @@ Last updated : 6 September 2021
 
 1. Please respect everyone. Don't be toxic. Doing so will result in a mute and a kick respectively.
 2. NSFW material is strictly prohibited except in #nsfw. Sending NSFW content outside of #nsfw will result in a 1-hour mute.
-3. You are allowed to send advertise links in #advertise.
+3. You are allowed to send advertise links in #advertise. <br>
     3a. DO NOT SEND NSFW LINKS EXCEPT IN #nsfw
 4. Impersonation of Nopply TV or the mods is against the rules and if found doing will result in a ban.
 5. Use English while talking in #general.
@@ -39,5 +39,5 @@ Please go to #create-ticket instead. Violation of this rule will result in a 3-d
 2. Do not do anything stupid.
 3. Violation of the admin rules will result in a demotion.
 
-Have fun and enjoy!
+Have fun and enjoy! <br>
 The YouTubers Discord Team
