@@ -1,8 +1,3 @@
-<head>
-  <title>YouTubers Discord Server Rules</title>
-  <meta name="description" content="Created by KornRT2018">
-</head>
-
 # Server Rules v1.2
 
 Last updated : 6 September 2021
