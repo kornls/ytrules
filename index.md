@@ -20,6 +20,7 @@ If there is not one, you can ask for it to be created by going to #suggestions, 
 Please go to #create-ticket instead. Violation of this rule will result in a 3-day mute.
 9. Do not spam outside of #spam. Doing so will lead you to a warn, mute, kick and permanent ban.
 10. Do not say "Chat is dead". It is considered an insult to the server and you will be warned and muted respectively.
+11. Do not hack or pretend to hack the server members without permission from the owners. Doing so will result in a mute.
 
 ## SECTION 2 — COUNTING RULES
 
