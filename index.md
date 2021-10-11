@@ -10,7 +10,7 @@ Last updated : 9 September 2021
 2. NSFW material is strictly prohibited except in #nsfw. Sending NSFW content outside of #nsfw will result in a 1-hour mute.
 3. You are allowed to send advertise links in #advertise. <br>
     3a. DO NOT SEND NSFW LINKS EXCEPT IN #nsfw
-4. Impersonation of Nopply TV or the mods is against the rules and if found doing will result in a ban.
+4. Impersonation of KornRT2018 or the mods is against the rules and if found doing will result in a ban.
 5. Use English while talking in #general.
 If you want to chat in your language, please go to the text channel for your language.
 If there is not one, you can ask for it to be created by going to #suggestions, or react with the question mark in #select-languages.
@@ -19,8 +19,7 @@ If there is not one, you can ask for it to be created by going to #suggestions, 
 8. DO NOT message the owner and/or the mods directly.
 Please go to #create-ticket instead. Violation of this rule will result in a 3-day mute.
 9. Do not spam outside of #spam. Doing so will lead you to a warn, mute, kick and permanent ban.
-10. Do not say "Chat is dead". It is considered an insult to the server and you will be warned and muted respectively.
-11. Do not hack or pretend to hack the server members without permission from the owners. Doing so will result in a mute.
+10. Do not hack or pretend to hack the server members without permission from the owners. Doing so will result in a mute.
 
 ## SECTION 2 — COUNTING RULES
 
