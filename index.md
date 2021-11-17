@@ -1,6 +1,6 @@
-# Server Rules v1.4.1
+# Server Rules v1.5.0
 
-Last updated : 9 September 2021
+Last updated : 17 November 2021
 
 **The YouTubers Discord Server is a welcoming server for everyone. <br> To keep the server safe, please follow these rules :**
 
